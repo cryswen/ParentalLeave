@@ -1,0 +1,821 @@
+,Name,Industry,paid_leave_weeks_woman,unpaid_leave_weeks_woman,paid_leave_weeks_man,unpaid_leave_weeks_man
+0,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+1,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+2,Army (British),Government: Federal,39.0,13.0,2.0,
+3,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+4,Zurich,Insurance: Life,29.0,,0.0,
+5,Etsy,Technology: Consumer Internet,26.0,,26.0,
+6,Spotify,Technology: Consumer Internet,26.0,,26.0,
+7,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+8,AO.com,Retail: Online,26.0,,,
+9,Morrison & Foerster LLP,Law Firm,26.0,,,
+10,Organizer Inc.,Technology: Software,26.0,,,
+11,Worldpay,Technology: Payments,26.0,,,
+12,Zynga,Technology: Gaming,26.0,12.0,12.0,
+13,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+14,72andsunny,Advertising,24.0,,4.0,
+15,Motorola Mobility,Technology: Manufacturing,24.0,,,
+16,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+17,ZestFinance,Finance: Loans,24.0,,,
+18,World First,Services: Other,24.0,4.0,2.0,
+19,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+20,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+21,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+22,Army (British),Government: Federal,39.0,13.0,2.0,
+23,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+24,Zurich,Insurance: Life,29.0,,0.0,
+25,Etsy,Technology: Consumer Internet,26.0,,26.0,
+26,Spotify,Technology: Consumer Internet,26.0,,26.0,
+27,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+28,AO.com,Retail: Online,26.0,,,
+29,Morrison & Foerster LLP,Law Firm,26.0,,,
+30,Organizer Inc.,Technology: Software,26.0,,,
+31,Worldpay,Technology: Payments,26.0,,,
+32,Zynga,Technology: Gaming,26.0,12.0,12.0,
+33,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+34,72andsunny,Advertising,24.0,,4.0,
+35,Motorola Mobility,Technology: Manufacturing,24.0,,,
+36,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+37,ZestFinance,Finance: Loans,24.0,,,
+38,World First,Services: Other,24.0,4.0,2.0,
+39,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+40,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+41,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+42,Army (British),Government: Federal,39.0,13.0,2.0,
+43,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+44,Zurich,Insurance: Life,29.0,,0.0,
+45,Etsy,Technology: Consumer Internet,26.0,,26.0,
+46,Spotify,Technology: Consumer Internet,26.0,,26.0,
+47,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+48,AO.com,Retail: Online,26.0,,,
+49,Morrison & Foerster LLP,Law Firm,26.0,,,
+50,Organizer Inc.,Technology: Software,26.0,,,
+51,Worldpay,Technology: Payments,26.0,,,
+52,Zynga,Technology: Gaming,26.0,12.0,12.0,
+53,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+54,72andsunny,Advertising,24.0,,4.0,
+55,Motorola Mobility,Technology: Manufacturing,24.0,,,
+56,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+57,ZestFinance,Finance: Loans,24.0,,,
+58,World First,Services: Other,24.0,4.0,2.0,
+59,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+60,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+61,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+62,Army (British),Government: Federal,39.0,13.0,2.0,
+63,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+64,Zurich,Insurance: Life,29.0,,0.0,
+65,Etsy,Technology: Consumer Internet,26.0,,26.0,
+66,Spotify,Technology: Consumer Internet,26.0,,26.0,
+67,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+68,AO.com,Retail: Online,26.0,,,
+69,Morrison & Foerster LLP,Law Firm,26.0,,,
+70,Organizer Inc.,Technology: Software,26.0,,,
+71,Worldpay,Technology: Payments,26.0,,,
+72,Zynga,Technology: Gaming,26.0,12.0,12.0,
+73,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+74,72andsunny,Advertising,24.0,,4.0,
+75,Motorola Mobility,Technology: Manufacturing,24.0,,,
+76,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+77,ZestFinance,Finance: Loans,24.0,,,
+78,World First,Services: Other,24.0,4.0,2.0,
+79,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+80,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+81,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+82,Army (British),Government: Federal,39.0,13.0,2.0,
+83,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+84,Zurich,Insurance: Life,29.0,,0.0,
+85,Etsy,Technology: Consumer Internet,26.0,,26.0,
+86,Spotify,Technology: Consumer Internet,26.0,,26.0,
+87,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+88,AO.com,Retail: Online,26.0,,,
+89,Morrison & Foerster LLP,Law Firm,26.0,,,
+90,Organizer Inc.,Technology: Software,26.0,,,
+91,Worldpay,Technology: Payments,26.0,,,
+92,Zynga,Technology: Gaming,26.0,12.0,12.0,
+93,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+94,72andsunny,Advertising,24.0,,4.0,
+95,Motorola Mobility,Technology: Manufacturing,24.0,,,
+96,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+97,ZestFinance,Finance: Loans,24.0,,,
+98,World First,Services: Other,24.0,4.0,2.0,
+99,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+100,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+101,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+102,Army (British),Government: Federal,39.0,13.0,2.0,
+103,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+104,Zurich,Insurance: Life,29.0,,0.0,
+105,Etsy,Technology: Consumer Internet,26.0,,26.0,
+106,Spotify,Technology: Consumer Internet,26.0,,26.0,
+107,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+108,AO.com,Retail: Online,26.0,,,
+109,Morrison & Foerster LLP,Law Firm,26.0,,,
+110,Organizer Inc.,Technology: Software,26.0,,,
+111,Worldpay,Technology: Payments,26.0,,,
+112,Zynga,Technology: Gaming,26.0,12.0,12.0,
+113,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+114,72andsunny,Advertising,24.0,,4.0,
+115,Motorola Mobility,Technology: Manufacturing,24.0,,,
+116,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+117,ZestFinance,Finance: Loans,24.0,,,
+118,World First,Services: Other,24.0,4.0,2.0,
+119,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+120,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+121,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+122,Army (British),Government: Federal,39.0,13.0,2.0,
+123,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+124,Zurich,Insurance: Life,29.0,,0.0,
+125,Etsy,Technology: Consumer Internet,26.0,,26.0,
+126,Spotify,Technology: Consumer Internet,26.0,,26.0,
+127,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+128,AO.com,Retail: Online,26.0,,,
+129,Morrison & Foerster LLP,Law Firm,26.0,,,
+130,Organizer Inc.,Technology: Software,26.0,,,
+131,Worldpay,Technology: Payments,26.0,,,
+132,Zynga,Technology: Gaming,26.0,12.0,12.0,
+133,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+134,72andsunny,Advertising,24.0,,4.0,
+135,Motorola Mobility,Technology: Manufacturing,24.0,,,
+136,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+137,ZestFinance,Finance: Loans,24.0,,,
+138,World First,Services: Other,24.0,4.0,2.0,
+139,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+140,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+141,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+142,Army (British),Government: Federal,39.0,13.0,2.0,
+143,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+144,Zurich,Insurance: Life,29.0,,0.0,
+145,Etsy,Technology: Consumer Internet,26.0,,26.0,
+146,Spotify,Technology: Consumer Internet,26.0,,26.0,
+147,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+148,AO.com,Retail: Online,26.0,,,
+149,Morrison & Foerster LLP,Law Firm,26.0,,,
+150,Organizer Inc.,Technology: Software,26.0,,,
+151,Worldpay,Technology: Payments,26.0,,,
+152,Zynga,Technology: Gaming,26.0,12.0,12.0,
+153,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+154,72andsunny,Advertising,24.0,,4.0,
+155,Motorola Mobility,Technology: Manufacturing,24.0,,,
+156,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+157,ZestFinance,Finance: Loans,24.0,,,
+158,World First,Services: Other,24.0,4.0,2.0,
+159,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+160,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+161,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+162,Army (British),Government: Federal,39.0,13.0,2.0,
+163,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+164,Zurich,Insurance: Life,29.0,,0.0,
+165,Etsy,Technology: Consumer Internet,26.0,,26.0,
+166,Spotify,Technology: Consumer Internet,26.0,,26.0,
+167,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+168,AO.com,Retail: Online,26.0,,,
+169,Morrison & Foerster LLP,Law Firm,26.0,,,
+170,Organizer Inc.,Technology: Software,26.0,,,
+171,Worldpay,Technology: Payments,26.0,,,
+172,Zynga,Technology: Gaming,26.0,12.0,12.0,
+173,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+174,72andsunny,Advertising,24.0,,4.0,
+175,Motorola Mobility,Technology: Manufacturing,24.0,,,
+176,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+177,ZestFinance,Finance: Loans,24.0,,,
+178,World First,Services: Other,24.0,4.0,2.0,
+179,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+180,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+181,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+182,Army (British),Government: Federal,39.0,13.0,2.0,
+183,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+184,Zurich,Insurance: Life,29.0,,0.0,
+185,Etsy,Technology: Consumer Internet,26.0,,26.0,
+186,Spotify,Technology: Consumer Internet,26.0,,26.0,
+187,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+188,AO.com,Retail: Online,26.0,,,
+189,Morrison & Foerster LLP,Law Firm,26.0,,,
+190,Organizer Inc.,Technology: Software,26.0,,,
+191,Worldpay,Technology: Payments,26.0,,,
+192,Zynga,Technology: Gaming,26.0,12.0,12.0,
+193,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+194,72andsunny,Advertising,24.0,,4.0,
+195,Motorola Mobility,Technology: Manufacturing,24.0,,,
+196,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+197,ZestFinance,Finance: Loans,24.0,,,
+198,World First,Services: Other,24.0,4.0,2.0,
+199,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+200,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+201,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+202,Army (British),Government: Federal,39.0,13.0,2.0,
+203,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+204,Zurich,Insurance: Life,29.0,,0.0,
+205,Etsy,Technology: Consumer Internet,26.0,,26.0,
+206,Spotify,Technology: Consumer Internet,26.0,,26.0,
+207,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+208,AO.com,Retail: Online,26.0,,,
+209,Morrison & Foerster LLP,Law Firm,26.0,,,
+210,Organizer Inc.,Technology: Software,26.0,,,
+211,Worldpay,Technology: Payments,26.0,,,
+212,Zynga,Technology: Gaming,26.0,12.0,12.0,
+213,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+214,72andsunny,Advertising,24.0,,4.0,
+215,Motorola Mobility,Technology: Manufacturing,24.0,,,
+216,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+217,ZestFinance,Finance: Loans,24.0,,,
+218,World First,Services: Other,24.0,4.0,2.0,
+219,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+220,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+221,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+222,Army (British),Government: Federal,39.0,13.0,2.0,
+223,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+224,Zurich,Insurance: Life,29.0,,0.0,
+225,Etsy,Technology: Consumer Internet,26.0,,26.0,
+226,Spotify,Technology: Consumer Internet,26.0,,26.0,
+227,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+228,AO.com,Retail: Online,26.0,,,
+229,Morrison & Foerster LLP,Law Firm,26.0,,,
+230,Organizer Inc.,Technology: Software,26.0,,,
+231,Worldpay,Technology: Payments,26.0,,,
+232,Zynga,Technology: Gaming,26.0,12.0,12.0,
+233,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+234,72andsunny,Advertising,24.0,,4.0,
+235,Motorola Mobility,Technology: Manufacturing,24.0,,,
+236,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+237,ZestFinance,Finance: Loans,24.0,,,
+238,World First,Services: Other,24.0,4.0,2.0,
+239,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+240,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+241,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+242,Army (British),Government: Federal,39.0,13.0,2.0,
+243,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+244,Zurich,Insurance: Life,29.0,,0.0,
+245,Etsy,Technology: Consumer Internet,26.0,,26.0,
+246,Spotify,Technology: Consumer Internet,26.0,,26.0,
+247,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+248,AO.com,Retail: Online,26.0,,,
+249,Morrison & Foerster LLP,Law Firm,26.0,,,
+250,Organizer Inc.,Technology: Software,26.0,,,
+251,Worldpay,Technology: Payments,26.0,,,
+252,Zynga,Technology: Gaming,26.0,12.0,12.0,
+253,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+254,72andsunny,Advertising,24.0,,4.0,
+255,Motorola Mobility,Technology: Manufacturing,24.0,,,
+256,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+257,ZestFinance,Finance: Loans,24.0,,,
+258,World First,Services: Other,24.0,4.0,2.0,
+259,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+260,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+261,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+262,Army (British),Government: Federal,39.0,13.0,2.0,
+263,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+264,Zurich,Insurance: Life,29.0,,0.0,
+265,Etsy,Technology: Consumer Internet,26.0,,26.0,
+266,Spotify,Technology: Consumer Internet,26.0,,26.0,
+267,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+268,AO.com,Retail: Online,26.0,,,
+269,Morrison & Foerster LLP,Law Firm,26.0,,,
+270,Organizer Inc.,Technology: Software,26.0,,,
+271,Worldpay,Technology: Payments,26.0,,,
+272,Zynga,Technology: Gaming,26.0,12.0,12.0,
+273,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+274,72andsunny,Advertising,24.0,,4.0,
+275,Motorola Mobility,Technology: Manufacturing,24.0,,,
+276,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+277,ZestFinance,Finance: Loans,24.0,,,
+278,World First,Services: Other,24.0,4.0,2.0,
+279,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+280,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+281,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+282,Army (British),Government: Federal,39.0,13.0,2.0,
+283,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+284,Zurich,Insurance: Life,29.0,,0.0,
+285,Etsy,Technology: Consumer Internet,26.0,,26.0,
+286,Spotify,Technology: Consumer Internet,26.0,,26.0,
+287,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+288,AO.com,Retail: Online,26.0,,,
+289,Morrison & Foerster LLP,Law Firm,26.0,,,
+290,Organizer Inc.,Technology: Software,26.0,,,
+291,Worldpay,Technology: Payments,26.0,,,
+292,Zynga,Technology: Gaming,26.0,12.0,12.0,
+293,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+294,72andsunny,Advertising,24.0,,4.0,
+295,Motorola Mobility,Technology: Manufacturing,24.0,,,
+296,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+297,ZestFinance,Finance: Loans,24.0,,,
+298,World First,Services: Other,24.0,4.0,2.0,
+299,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+300,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+301,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+302,Army (British),Government: Federal,39.0,13.0,2.0,
+303,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+304,Zurich,Insurance: Life,29.0,,0.0,
+305,Etsy,Technology: Consumer Internet,26.0,,26.0,
+306,Spotify,Technology: Consumer Internet,26.0,,26.0,
+307,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+308,AO.com,Retail: Online,26.0,,,
+309,Morrison & Foerster LLP,Law Firm,26.0,,,
+310,Organizer Inc.,Technology: Software,26.0,,,
+311,Worldpay,Technology: Payments,26.0,,,
+312,Zynga,Technology: Gaming,26.0,12.0,12.0,
+313,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+314,72andsunny,Advertising,24.0,,4.0,
+315,Motorola Mobility,Technology: Manufacturing,24.0,,,
+316,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+317,ZestFinance,Finance: Loans,24.0,,,
+318,World First,Services: Other,24.0,4.0,2.0,
+319,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+320,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+321,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+322,Army (British),Government: Federal,39.0,13.0,2.0,
+323,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+324,Zurich,Insurance: Life,29.0,,0.0,
+325,Etsy,Technology: Consumer Internet,26.0,,26.0,
+326,Spotify,Technology: Consumer Internet,26.0,,26.0,
+327,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+328,AO.com,Retail: Online,26.0,,,
+329,Morrison & Foerster LLP,Law Firm,26.0,,,
+330,Organizer Inc.,Technology: Software,26.0,,,
+331,Worldpay,Technology: Payments,26.0,,,
+332,Zynga,Technology: Gaming,26.0,12.0,12.0,
+333,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+334,72andsunny,Advertising,24.0,,4.0,
+335,Motorola Mobility,Technology: Manufacturing,24.0,,,
+336,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+337,ZestFinance,Finance: Loans,24.0,,,
+338,World First,Services: Other,24.0,4.0,2.0,
+339,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+340,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+341,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+342,Army (British),Government: Federal,39.0,13.0,2.0,
+343,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+344,Zurich,Insurance: Life,29.0,,0.0,
+345,Etsy,Technology: Consumer Internet,26.0,,26.0,
+346,Spotify,Technology: Consumer Internet,26.0,,26.0,
+347,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+348,AO.com,Retail: Online,26.0,,,
+349,Morrison & Foerster LLP,Law Firm,26.0,,,
+350,Organizer Inc.,Technology: Software,26.0,,,
+351,Worldpay,Technology: Payments,26.0,,,
+352,Zynga,Technology: Gaming,26.0,12.0,12.0,
+353,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+354,72andsunny,Advertising,24.0,,4.0,
+355,Motorola Mobility,Technology: Manufacturing,24.0,,,
+356,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+357,ZestFinance,Finance: Loans,24.0,,,
+358,World First,Services: Other,24.0,4.0,2.0,
+359,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+360,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+361,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+362,Army (British),Government: Federal,39.0,13.0,2.0,
+363,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+364,Zurich,Insurance: Life,29.0,,0.0,
+365,Etsy,Technology: Consumer Internet,26.0,,26.0,
+366,Spotify,Technology: Consumer Internet,26.0,,26.0,
+367,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+368,AO.com,Retail: Online,26.0,,,
+369,Morrison & Foerster LLP,Law Firm,26.0,,,
+370,Organizer Inc.,Technology: Software,26.0,,,
+371,Worldpay,Technology: Payments,26.0,,,
+372,Zynga,Technology: Gaming,26.0,12.0,12.0,
+373,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+374,72andsunny,Advertising,24.0,,4.0,
+375,Motorola Mobility,Technology: Manufacturing,24.0,,,
+376,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+377,ZestFinance,Finance: Loans,24.0,,,
+378,World First,Services: Other,24.0,4.0,2.0,
+379,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+380,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+381,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+382,Army (British),Government: Federal,39.0,13.0,2.0,
+383,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+384,Zurich,Insurance: Life,29.0,,0.0,
+385,Etsy,Technology: Consumer Internet,26.0,,26.0,
+386,Spotify,Technology: Consumer Internet,26.0,,26.0,
+387,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+388,AO.com,Retail: Online,26.0,,,
+389,Morrison & Foerster LLP,Law Firm,26.0,,,
+390,Organizer Inc.,Technology: Software,26.0,,,
+391,Worldpay,Technology: Payments,26.0,,,
+392,Zynga,Technology: Gaming,26.0,12.0,12.0,
+393,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+394,72andsunny,Advertising,24.0,,4.0,
+395,Motorola Mobility,Technology: Manufacturing,24.0,,,
+396,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+397,ZestFinance,Finance: Loans,24.0,,,
+398,World First,Services: Other,24.0,4.0,2.0,
+399,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+400,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+401,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+402,Army (British),Government: Federal,39.0,13.0,2.0,
+403,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+404,Zurich,Insurance: Life,29.0,,0.0,
+405,Etsy,Technology: Consumer Internet,26.0,,26.0,
+406,Spotify,Technology: Consumer Internet,26.0,,26.0,
+407,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+408,AO.com,Retail: Online,26.0,,,
+409,Morrison & Foerster LLP,Law Firm,26.0,,,
+410,Organizer Inc.,Technology: Software,26.0,,,
+411,Worldpay,Technology: Payments,26.0,,,
+412,Zynga,Technology: Gaming,26.0,12.0,12.0,
+413,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+414,72andsunny,Advertising,24.0,,4.0,
+415,Motorola Mobility,Technology: Manufacturing,24.0,,,
+416,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+417,ZestFinance,Finance: Loans,24.0,,,
+418,World First,Services: Other,24.0,4.0,2.0,
+419,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+420,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+421,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+422,Army (British),Government: Federal,39.0,13.0,2.0,
+423,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+424,Zurich,Insurance: Life,29.0,,0.0,
+425,Etsy,Technology: Consumer Internet,26.0,,26.0,
+426,Spotify,Technology: Consumer Internet,26.0,,26.0,
+427,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+428,AO.com,Retail: Online,26.0,,,
+429,Morrison & Foerster LLP,Law Firm,26.0,,,
+430,Organizer Inc.,Technology: Software,26.0,,,
+431,Worldpay,Technology: Payments,26.0,,,
+432,Zynga,Technology: Gaming,26.0,12.0,12.0,
+433,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+434,72andsunny,Advertising,24.0,,4.0,
+435,Motorola Mobility,Technology: Manufacturing,24.0,,,
+436,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+437,ZestFinance,Finance: Loans,24.0,,,
+438,World First,Services: Other,24.0,4.0,2.0,
+439,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+440,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+441,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+442,Army (British),Government: Federal,39.0,13.0,2.0,
+443,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+444,Zurich,Insurance: Life,29.0,,0.0,
+445,Etsy,Technology: Consumer Internet,26.0,,26.0,
+446,Spotify,Technology: Consumer Internet,26.0,,26.0,
+447,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+448,AO.com,Retail: Online,26.0,,,
+449,Morrison & Foerster LLP,Law Firm,26.0,,,
+450,Organizer Inc.,Technology: Software,26.0,,,
+451,Worldpay,Technology: Payments,26.0,,,
+452,Zynga,Technology: Gaming,26.0,12.0,12.0,
+453,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+454,72andsunny,Advertising,24.0,,4.0,
+455,Motorola Mobility,Technology: Manufacturing,24.0,,,
+456,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+457,ZestFinance,Finance: Loans,24.0,,,
+458,World First,Services: Other,24.0,4.0,2.0,
+459,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+460,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+461,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+462,Army (British),Government: Federal,39.0,13.0,2.0,
+463,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+464,Zurich,Insurance: Life,29.0,,0.0,
+465,Etsy,Technology: Consumer Internet,26.0,,26.0,
+466,Spotify,Technology: Consumer Internet,26.0,,26.0,
+467,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+468,AO.com,Retail: Online,26.0,,,
+469,Morrison & Foerster LLP,Law Firm,26.0,,,
+470,Organizer Inc.,Technology: Software,26.0,,,
+471,Worldpay,Technology: Payments,26.0,,,
+472,Zynga,Technology: Gaming,26.0,12.0,12.0,
+473,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+474,72andsunny,Advertising,24.0,,4.0,
+475,Motorola Mobility,Technology: Manufacturing,24.0,,,
+476,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+477,ZestFinance,Finance: Loans,24.0,,,
+478,World First,Services: Other,24.0,4.0,2.0,
+479,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+480,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+481,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+482,Army (British),Government: Federal,39.0,13.0,2.0,
+483,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+484,Zurich,Insurance: Life,29.0,,0.0,
+485,Etsy,Technology: Consumer Internet,26.0,,26.0,
+486,Spotify,Technology: Consumer Internet,26.0,,26.0,
+487,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+488,AO.com,Retail: Online,26.0,,,
+489,Morrison & Foerster LLP,Law Firm,26.0,,,
+490,Organizer Inc.,Technology: Software,26.0,,,
+491,Worldpay,Technology: Payments,26.0,,,
+492,Zynga,Technology: Gaming,26.0,12.0,12.0,
+493,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+494,72andsunny,Advertising,24.0,,4.0,
+495,Motorola Mobility,Technology: Manufacturing,24.0,,,
+496,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+497,ZestFinance,Finance: Loans,24.0,,,
+498,World First,Services: Other,24.0,4.0,2.0,
+499,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+500,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+501,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+502,Army (British),Government: Federal,39.0,13.0,2.0,
+503,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+504,Zurich,Insurance: Life,29.0,,0.0,
+505,Etsy,Technology: Consumer Internet,26.0,,26.0,
+506,Spotify,Technology: Consumer Internet,26.0,,26.0,
+507,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+508,AO.com,Retail: Online,26.0,,,
+509,Morrison & Foerster LLP,Law Firm,26.0,,,
+510,Organizer Inc.,Technology: Software,26.0,,,
+511,Worldpay,Technology: Payments,26.0,,,
+512,Zynga,Technology: Gaming,26.0,12.0,12.0,
+513,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+514,72andsunny,Advertising,24.0,,4.0,
+515,Motorola Mobility,Technology: Manufacturing,24.0,,,
+516,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+517,ZestFinance,Finance: Loans,24.0,,,
+518,World First,Services: Other,24.0,4.0,2.0,
+519,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+520,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+521,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+522,Army (British),Government: Federal,39.0,13.0,2.0,
+523,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+524,Zurich,Insurance: Life,29.0,,0.0,
+525,Etsy,Technology: Consumer Internet,26.0,,26.0,
+526,Spotify,Technology: Consumer Internet,26.0,,26.0,
+527,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+528,AO.com,Retail: Online,26.0,,,
+529,Morrison & Foerster LLP,Law Firm,26.0,,,
+530,Organizer Inc.,Technology: Software,26.0,,,
+531,Worldpay,Technology: Payments,26.0,,,
+532,Zynga,Technology: Gaming,26.0,12.0,12.0,
+533,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+534,72andsunny,Advertising,24.0,,4.0,
+535,Motorola Mobility,Technology: Manufacturing,24.0,,,
+536,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+537,ZestFinance,Finance: Loans,24.0,,,
+538,World First,Services: Other,24.0,4.0,2.0,
+539,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+540,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+541,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+542,Army (British),Government: Federal,39.0,13.0,2.0,
+543,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+544,Zurich,Insurance: Life,29.0,,0.0,
+545,Etsy,Technology: Consumer Internet,26.0,,26.0,
+546,Spotify,Technology: Consumer Internet,26.0,,26.0,
+547,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+548,AO.com,Retail: Online,26.0,,,
+549,Morrison & Foerster LLP,Law Firm,26.0,,,
+550,Organizer Inc.,Technology: Software,26.0,,,
+551,Worldpay,Technology: Payments,26.0,,,
+552,Zynga,Technology: Gaming,26.0,12.0,12.0,
+553,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+554,72andsunny,Advertising,24.0,,4.0,
+555,Motorola Mobility,Technology: Manufacturing,24.0,,,
+556,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+557,ZestFinance,Finance: Loans,24.0,,,
+558,World First,Services: Other,24.0,4.0,2.0,
+559,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+560,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+561,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+562,Army (British),Government: Federal,39.0,13.0,2.0,
+563,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+564,Zurich,Insurance: Life,29.0,,0.0,
+565,Etsy,Technology: Consumer Internet,26.0,,26.0,
+566,Spotify,Technology: Consumer Internet,26.0,,26.0,
+567,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+568,AO.com,Retail: Online,26.0,,,
+569,Morrison & Foerster LLP,Law Firm,26.0,,,
+570,Organizer Inc.,Technology: Software,26.0,,,
+571,Worldpay,Technology: Payments,26.0,,,
+572,Zynga,Technology: Gaming,26.0,12.0,12.0,
+573,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+574,72andsunny,Advertising,24.0,,4.0,
+575,Motorola Mobility,Technology: Manufacturing,24.0,,,
+576,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+577,ZestFinance,Finance: Loans,24.0,,,
+578,World First,Services: Other,24.0,4.0,2.0,
+579,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+580,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+581,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+582,Army (British),Government: Federal,39.0,13.0,2.0,
+583,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+584,Zurich,Insurance: Life,29.0,,0.0,
+585,Etsy,Technology: Consumer Internet,26.0,,26.0,
+586,Spotify,Technology: Consumer Internet,26.0,,26.0,
+587,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+588,AO.com,Retail: Online,26.0,,,
+589,Morrison & Foerster LLP,Law Firm,26.0,,,
+590,Organizer Inc.,Technology: Software,26.0,,,
+591,Worldpay,Technology: Payments,26.0,,,
+592,Zynga,Technology: Gaming,26.0,12.0,12.0,
+593,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+594,72andsunny,Advertising,24.0,,4.0,
+595,Motorola Mobility,Technology: Manufacturing,24.0,,,
+596,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+597,ZestFinance,Finance: Loans,24.0,,,
+598,World First,Services: Other,24.0,4.0,2.0,
+599,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+600,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+601,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+602,Army (British),Government: Federal,39.0,13.0,2.0,
+603,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+604,Zurich,Insurance: Life,29.0,,0.0,
+605,Etsy,Technology: Consumer Internet,26.0,,26.0,
+606,Spotify,Technology: Consumer Internet,26.0,,26.0,
+607,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+608,AO.com,Retail: Online,26.0,,,
+609,Morrison & Foerster LLP,Law Firm,26.0,,,
+610,Organizer Inc.,Technology: Software,26.0,,,
+611,Worldpay,Technology: Payments,26.0,,,
+612,Zynga,Technology: Gaming,26.0,12.0,12.0,
+613,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+614,72andsunny,Advertising,24.0,,4.0,
+615,Motorola Mobility,Technology: Manufacturing,24.0,,,
+616,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+617,ZestFinance,Finance: Loans,24.0,,,
+618,World First,Services: Other,24.0,4.0,2.0,
+619,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+620,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+621,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+622,Army (British),Government: Federal,39.0,13.0,2.0,
+623,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+624,Zurich,Insurance: Life,29.0,,0.0,
+625,Etsy,Technology: Consumer Internet,26.0,,26.0,
+626,Spotify,Technology: Consumer Internet,26.0,,26.0,
+627,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+628,AO.com,Retail: Online,26.0,,,
+629,Morrison & Foerster LLP,Law Firm,26.0,,,
+630,Organizer Inc.,Technology: Software,26.0,,,
+631,Worldpay,Technology: Payments,26.0,,,
+632,Zynga,Technology: Gaming,26.0,12.0,12.0,
+633,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+634,72andsunny,Advertising,24.0,,4.0,
+635,Motorola Mobility,Technology: Manufacturing,24.0,,,
+636,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+637,ZestFinance,Finance: Loans,24.0,,,
+638,World First,Services: Other,24.0,4.0,2.0,
+639,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+640,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+641,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+642,Army (British),Government: Federal,39.0,13.0,2.0,
+643,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+644,Zurich,Insurance: Life,29.0,,0.0,
+645,Etsy,Technology: Consumer Internet,26.0,,26.0,
+646,Spotify,Technology: Consumer Internet,26.0,,26.0,
+647,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+648,AO.com,Retail: Online,26.0,,,
+649,Morrison & Foerster LLP,Law Firm,26.0,,,
+650,Organizer Inc.,Technology: Software,26.0,,,
+651,Worldpay,Technology: Payments,26.0,,,
+652,Zynga,Technology: Gaming,26.0,12.0,12.0,
+653,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+654,72andsunny,Advertising,24.0,,4.0,
+655,Motorola Mobility,Technology: Manufacturing,24.0,,,
+656,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+657,ZestFinance,Finance: Loans,24.0,,,
+658,World First,Services: Other,24.0,4.0,2.0,
+659,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+660,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+661,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+662,Army (British),Government: Federal,39.0,13.0,2.0,
+663,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+664,Zurich,Insurance: Life,29.0,,0.0,
+665,Etsy,Technology: Consumer Internet,26.0,,26.0,
+666,Spotify,Technology: Consumer Internet,26.0,,26.0,
+667,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+668,AO.com,Retail: Online,26.0,,,
+669,Morrison & Foerster LLP,Law Firm,26.0,,,
+670,Organizer Inc.,Technology: Software,26.0,,,
+671,Worldpay,Technology: Payments,26.0,,,
+672,Zynga,Technology: Gaming,26.0,12.0,12.0,
+673,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+674,72andsunny,Advertising,24.0,,4.0,
+675,Motorola Mobility,Technology: Manufacturing,24.0,,,
+676,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+677,ZestFinance,Finance: Loans,24.0,,,
+678,World First,Services: Other,24.0,4.0,2.0,
+679,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+680,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+681,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+682,Army (British),Government: Federal,39.0,13.0,2.0,
+683,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+684,Zurich,Insurance: Life,29.0,,0.0,
+685,Etsy,Technology: Consumer Internet,26.0,,26.0,
+686,Spotify,Technology: Consumer Internet,26.0,,26.0,
+687,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+688,AO.com,Retail: Online,26.0,,,
+689,Morrison & Foerster LLP,Law Firm,26.0,,,
+690,Organizer Inc.,Technology: Software,26.0,,,
+691,Worldpay,Technology: Payments,26.0,,,
+692,Zynga,Technology: Gaming,26.0,12.0,12.0,
+693,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+694,72andsunny,Advertising,24.0,,4.0,
+695,Motorola Mobility,Technology: Manufacturing,24.0,,,
+696,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+697,ZestFinance,Finance: Loans,24.0,,,
+698,World First,Services: Other,24.0,4.0,2.0,
+699,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+700,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+701,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+702,Army (British),Government: Federal,39.0,13.0,2.0,
+703,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+704,Zurich,Insurance: Life,29.0,,0.0,
+705,Etsy,Technology: Consumer Internet,26.0,,26.0,
+706,Spotify,Technology: Consumer Internet,26.0,,26.0,
+707,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+708,AO.com,Retail: Online,26.0,,,
+709,Morrison & Foerster LLP,Law Firm,26.0,,,
+710,Organizer Inc.,Technology: Software,26.0,,,
+711,Worldpay,Technology: Payments,26.0,,,
+712,Zynga,Technology: Gaming,26.0,12.0,12.0,
+713,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+714,72andsunny,Advertising,24.0,,4.0,
+715,Motorola Mobility,Technology: Manufacturing,24.0,,,
+716,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+717,ZestFinance,Finance: Loans,24.0,,,
+718,World First,Services: Other,24.0,4.0,2.0,
+719,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+720,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+721,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+722,Army (British),Government: Federal,39.0,13.0,2.0,
+723,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+724,Zurich,Insurance: Life,29.0,,0.0,
+725,Etsy,Technology: Consumer Internet,26.0,,26.0,
+726,Spotify,Technology: Consumer Internet,26.0,,26.0,
+727,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+728,AO.com,Retail: Online,26.0,,,
+729,Morrison & Foerster LLP,Law Firm,26.0,,,
+730,Organizer Inc.,Technology: Software,26.0,,,
+731,Worldpay,Technology: Payments,26.0,,,
+732,Zynga,Technology: Gaming,26.0,12.0,12.0,
+733,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+734,72andsunny,Advertising,24.0,,4.0,
+735,Motorola Mobility,Technology: Manufacturing,24.0,,,
+736,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+737,ZestFinance,Finance: Loans,24.0,,,
+738,World First,Services: Other,24.0,4.0,2.0,
+739,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+740,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+741,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+742,Army (British),Government: Federal,39.0,13.0,2.0,
+743,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+744,Zurich,Insurance: Life,29.0,,0.0,
+745,Etsy,Technology: Consumer Internet,26.0,,26.0,
+746,Spotify,Technology: Consumer Internet,26.0,,26.0,
+747,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+748,AO.com,Retail: Online,26.0,,,
+749,Morrison & Foerster LLP,Law Firm,26.0,,,
+750,Organizer Inc.,Technology: Software,26.0,,,
+751,Worldpay,Technology: Payments,26.0,,,
+752,Zynga,Technology: Gaming,26.0,12.0,12.0,
+753,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+754,72andsunny,Advertising,24.0,,4.0,
+755,Motorola Mobility,Technology: Manufacturing,24.0,,,
+756,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+757,ZestFinance,Finance: Loans,24.0,,,
+758,World First,Services: Other,24.0,4.0,2.0,
+759,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+760,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+761,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+762,Army (British),Government: Federal,39.0,13.0,2.0,
+763,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+764,Zurich,Insurance: Life,29.0,,0.0,
+765,Etsy,Technology: Consumer Internet,26.0,,26.0,
+766,Spotify,Technology: Consumer Internet,26.0,,26.0,
+767,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+768,AO.com,Retail: Online,26.0,,,
+769,Morrison & Foerster LLP,Law Firm,26.0,,,
+770,Organizer Inc.,Technology: Software,26.0,,,
+771,Worldpay,Technology: Payments,26.0,,,
+772,Zynga,Technology: Gaming,26.0,12.0,12.0,
+773,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+774,72andsunny,Advertising,24.0,,4.0,
+775,Motorola Mobility,Technology: Manufacturing,24.0,,,
+776,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+777,ZestFinance,Finance: Loans,24.0,,,
+778,World First,Services: Other,24.0,4.0,2.0,
+779,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+780,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+781,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+782,Army (British),Government: Federal,39.0,13.0,2.0,
+783,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+784,Zurich,Insurance: Life,29.0,,0.0,
+785,Etsy,Technology: Consumer Internet,26.0,,26.0,
+786,Spotify,Technology: Consumer Internet,26.0,,26.0,
+787,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+788,AO.com,Retail: Online,26.0,,,
+789,Morrison & Foerster LLP,Law Firm,26.0,,,
+790,Organizer Inc.,Technology: Software,26.0,,,
+791,Worldpay,Technology: Payments,26.0,,,
+792,Zynga,Technology: Gaming,26.0,12.0,12.0,
+793,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+794,72andsunny,Advertising,24.0,,4.0,
+795,Motorola Mobility,Technology: Manufacturing,24.0,,,
+796,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+797,ZestFinance,Finance: Loans,24.0,,,
+798,World First,Services: Other,24.0,4.0,2.0,
+799,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
+800,Netflix,Technology: Consumer Internet,52.0,0.0,52.0,0.0
+801,Bill and Melinda Gates Foundation,Philanthropy,52.0,,52.0,2.0
+802,Army (British),Government: Federal,39.0,13.0,2.0,
+803,"Automattic, Inc.",Technology: Consumer Internet,32.0,0.0,,
+804,Zurich,Insurance: Life,29.0,,0.0,
+805,Etsy,Technology: Consumer Internet,26.0,,26.0,
+806,Spotify,Technology: Consumer Internet,26.0,,26.0,
+807,Adobe Systems,Technology: Software,26.0,6.0,10.0,
+808,AO.com,Retail: Online,26.0,,,
+809,Morrison & Foerster LLP,Law Firm,26.0,,,
+810,Organizer Inc.,Technology: Software,26.0,,,
+811,Worldpay,Technology: Payments,26.0,,,
+812,Zynga,Technology: Gaming,26.0,12.0,12.0,
+813,eBay Inc.,Technology: Consumer Internet,24.0,6.0,12.0,
+814,72andsunny,Advertising,24.0,,4.0,
+815,Motorola Mobility,Technology: Manufacturing,24.0,,,
+816,Open Society Foundations,Philanthropy,24.0,,24.0,24.0
+817,ZestFinance,Finance: Loans,24.0,,,
+818,World First,Services: Other,24.0,4.0,2.0,
+819,"Orrick, Herrington & Sutcliffe LLP",Law Firm,23.0,12.0,4.0,36.0
