@@ -34,6 +34,7 @@ To see if private and public universities differ in parental leave policies, I p
 ![alt text](https://github.com/cryswen/ParentalLeave/blob/master/figures/private_public_box.png)
 
 It turn out that compare to public univeristies,private uiversities tend to have longer (9.9 weeks vs. 7.76 weeks) in average paid leave with less variation.
+
 #### Universities vs. Companies
 To see if universities and companies differ in parental leave policies, I plot the histogram and box plot of paid leave weeks for average of men and woman. 
 
