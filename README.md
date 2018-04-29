@@ -21,4 +21,6 @@ A summary table of parental leave policies scraped from website: https://fairygo
 ### Geographic Distribution of Parental Leave at universities
 To evaluate how geography affect different university policies, I plotted the average (between men and women) length of paid leave weeks on a map with color scales.
 
-![alt text](https://github.com/cryswen/ParentalLeave/blob/master/geo_dist.png)
+![alt text](https://github.com/cryswen/ParentalLeave/blob/master/figures/geo_dist.png)
+![alt text](https://github.com/cryswen/ParentalLeave/blob/master/figures/geo_sex_dist.png)
+
