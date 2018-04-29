@@ -18,9 +18,13 @@ An coordinates data for these universities obtained from Google Geocode API.
 A summary table of parental leave policies scraped from website: https://fairygodboss.com/maternity-leave-resource-center.
 
 ## Preliminary analysis
-### Geographic Distribution of Parental Leave at universities
-To evaluate how geography affect different university policies, I plotted the average (between men and women) length of paid leave weeks on a map with color scales.
+### Geographic Distribution of Parental Leave at Universities
+To evaluate how geography affect different university policies, I plot the average and difference (between men and women) length of paid leave weeks on a map with color scales.
 
 ![alt text](https://github.com/cryswen/ParentalLeave/blob/master/figures/geo_dist.png)
 ![alt text](https://github.com/cryswen/ParentalLeave/blob/master/figures/geo_sex_dist.png)
 
+I find that the geographic distribution of universities have some effect on the parental leave policies. Through careful inspection of the figure, it is significant only a small portion of universities have long (>20) weeks paid parental leave and they are more likely to be in Canada and the costal area of US with few in central US.
+
+### Group comparisons
+#### Private vs. Public Universities
