@@ -1,19 +1,23 @@
 
 # ParentalLeave
 
-This project is to discuss the parental leave policies from more than 200 universities in US and Canada and compare it with companies in different area. My motivation for this project come from the fact that as a graduate student at Georgia Tech, I had gone through the process of having a child and I think the parental leave policy can be improved in multiple ways. 
+This project is to discuss the parental leave policies from more than 200 universities in US and Canada and compare it with companies in different area. 
+
+## Motivation
+
+My motivation for this project come from the fact that as a graduate student, I had gone through the process of having a child and have to consult for parental leave policies. By looking up parental leave policies at different places, I think it's important to let the pubic aware of the huge difference between academia and industry in parental leave policies and that the policy can be improved in multiple ways. 
 
 ## Datasets
 
-The datasets I used include a recent study of parental leave policies by a group from University of Colorado at Boulder and the Santa Fe Institute, an coordinates data for these universities obtained from Google Geocode API and a summary table of parental leave policies scraped from website. To get an idea of the geographical distribution of different university policies, I plotted the average length of paid leave weeks on a map with color scales. The 
+The datasets I used include:
 
-This project includes 3 datasets obtained through different ways.
+A recent study of parental leave policies of 205 universities by a group from University of Colorado at Boulder and the Santa Fe Institute: the 'parental_leave_policies.csv' file from https://github.com/aaronclauset/parental-leave.
 
-The 'parental_leave_policies.csv' file from https://github.com/aaronclauset/parental-leave.
+An coordinates data for these universities obtained from Google Geocode API.
 
-Longitude and latitude infomation obtained from Google API.
+A summary table of parental leave policies scraped from website: https://fairygodboss.com/maternity-leave-resource-center.
 
-Company parental leave policies scraped from website https://fairygodboss.com/maternity-leave-resource-center.
-
-## Analysis
-For some reason, the jupyter notebook will not open, please see: https://nbviewer.jupyter.org/github/cryswen/ParentalLeave/blob/master/TDI_ParentalLeave.ipynb.
+## Preliminary analysis
+### Geographic Distribution of Parental Leave at universities
+To evaluate how geography affect different university policies, I plotted the average (between men and women) length of paid leave weeks on a map with color scales.
+![alt text](https://github.com/cryswen/ParentalLeave/blob/master/geo_dist.png)
